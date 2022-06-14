@@ -40,7 +40,7 @@
                 <mxCell id="29" value="" style="edgeStyle=none;html=1;fontFamily=Verdana;fontSize=12;targetPerimeterSpacing=0;" edge="1" parent="1" source="17" target="28">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="17" value="&lt;div&gt;&lt;span&gt;Количество символов в массиве больше или равно трём ?&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;align=center;" vertex="1" parent="1">
+                <mxCell id="17" value="&lt;div&gt;&lt;span&gt;Количество символов в массиве меньше или равно трём ?&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;align=center;" vertex="1" parent="1">
                     <mxGeometry x="210" y="570" width="220" height="170" as="geometry"/>
                 </mxCell>
                 <mxCell id="19" value="Нет" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">

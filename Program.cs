@@ -5,7 +5,7 @@ Console.WriteLine();
 Console.Write("Ответ: [ ");
 for (int i = 0; i < massive.Length; i++)
 {
-    if(massive[i].Length >=3)
+    if(massive[i].Length <=3)
     {
        Console.Write(massive[i] + " ");
     }
