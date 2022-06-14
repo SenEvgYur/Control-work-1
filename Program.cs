@@ -1,7 +1,8 @@
 ﻿Console.Clear();
 Console.WriteLine("Введите массив, используя в качестве разделителя пробел или запятую: ");
 string [] massive = Console.ReadLine().Split(' ', ',');
-Console.Write("[ ");
+Console.WriteLine();
+Console.Write("Ответ: [ ");
 for (int i = 0; i < massive.Length; i++)
 {
     if(massive[i].Length >=3)
